@@ -1,0 +1,25 @@
+h2{
+    color: whitesmoke;
+}
+h3{
+    color: whitesmoke
+}
+body {
+    background-color: black;
+    color:antiquewhite;
+    font-family: arial;
+    text-align: center;
+    ul{
+        list position: relative; inside;
+    }
+}
+header{
+    border-bottom: 1px solid grey;
+}
+footer{
+    border-top: 1px solid grey;
+}
+img {
+width: 650px;
+height: 200px;
+}
